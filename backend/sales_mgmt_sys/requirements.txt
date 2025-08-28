@@ -24,3 +24,4 @@ djangorestframework
 django-cors-headers
 djangorestframework-simplejwt
 whitenoise==6.7.0
+gunicorn
